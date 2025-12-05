@@ -72,4 +72,9 @@ The program is divided into several classes, each with a clear responsibility:
 
 ---
 
+## ▶️ Running the Program
+
+- javac *.java.
+- java TicTacToeApp.
+
 
